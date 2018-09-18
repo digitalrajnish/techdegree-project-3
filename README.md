@@ -1,7 +1,7 @@
 # Techdegree Project 3
 
 ```html
-<div class="icon">
+        <div class="icon">
             <img src="images/icons/bolt.png" alt="An icon of a globe.">
           </div>
           <div class="info">
@@ -9,5 +9,5 @@
             <p>
               GeoNotation is, quite simply, the fastest note-taking app on the market.
             </p>
-          </div>
-          ```
+         </div>
+ ```
